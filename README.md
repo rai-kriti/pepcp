@@ -30,4 +30,16 @@ Leetcode
 | ------- | ------- |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/rai-kriti/pepcp/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/rai-kriti/pepcp/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/rai-kriti/pepcp/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
 <!---LeetCode Topics End-->
