@@ -1,65 +1,130 @@
 class Solution {
 public:
 
-    bool isPossible(int mid,vector<vector<pair<int,int>>>& adj,long long k){
-       int n = adj.size();
-        vector<long long> minDist(n, -1);
-        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
-        
-        pq.push({0, 0});
-        minDist[0] = 0;
+    void shortestPathInDAG(int src,
+                           vector<vector<pair<int,int>>> &graph,
+                           vector<int> &indegree,
+                           vector<long long> &dist) {
 
-        while(!pq.empty()) {
-            long long dist = pq.top().first;
-            int nd = pq.top().second;
-            pq.pop();
+        int n = graph.size();
 
-            if (dist > minDist[nd]) continue;
-            if (nd == n - 1) return true;
+        queue<int> q;
+        vector<int> indeg = indegree;
 
-            for(auto& edge : adj[nd]) {
-                int neigh = edge.first;
-                int wt = edge.second;
-                if(wt >= mid && dist + wt <= k) {
-                    if (minDist[neigh] == -1 || dist + wt < minDist[neigh]) {
-                        minDist[neigh] = dist + wt;
-                        pq.push({minDist[neigh], neigh});
-                    }
+        for (int i = 0; i < n; i++) {
+            if (indeg[i] == 0)
+                q.push(i);
+        }
+
+        dist.assign(n, LLONG_MAX);
+        dist[src] = 0;
+
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
+
+            if (dist[u] != LLONG_MAX) {
+                for (auto &it : graph[u]) {
+                    int v = it.first;
+                    int w = it.second;
+
+                    dist[v] = min(dist[v], dist[u] + 1LL * w);
                 }
             }
+
+            for (auto &it : graph[u]) {
+                int v = it.first;
+
+                indeg[v]--;
+
+                if (indeg[v] == 0)
+                    q.push(v);
+            }
         }
-        return false;
     }
 
-    int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, long long k) {
-       int n = online.size();
-        
-        vector<vector<pair<int,int>>> adj(n);
-        // vector<vector<pair<int,int>>> adj(maxElem + 1);
-            int maxWt = 0;
+    bool check(long long mid,
+               vector<vector<pair<int,int>>> &graph,
+               vector<int> &indegree,
+               vector<bool> &online,
+               long long k) {
 
-        for(int i = 0;i<edges.size();i++){
-            int u = edges[i][0];
-            int v = edges[i][1];
-            int wt = edges[i][2];
-            maxWt = max(maxWt,wt);
-            if(online[u] && online[v]){
-                adj[u].push_back({v,wt});
+        int n = online.size();
+
+        vector<vector<pair<int,int>>> newGraph(n);
+        vector<int> newIndegree(n, 0);
+
+        for (int u = 0; u < n; u++) {
+
+            if (u != 0 && u != n - 1 && !online[u])
+                continue;
+
+            for (auto &it : graph[u]) {
+
+                int v = it.first;
+                int w = it.second;
+
+                if (w < mid)
+                    continue;
+
+                if (v != n - 1 && !online[v])
+                    continue;
+
+                newGraph[u].push_back({v, w});
+                newIndegree[v]++;
             }
-            // adj[v].push_back({u,wt});
         }
 
-        int lo = 0, hi = maxWt ;
+        vector<long long> dist;
+
+        shortestPathInDAG(0, newGraph, newIndegree, dist);
+
+        return dist[n - 1] <= k;
+    }
+
+    int findMaxPathScore(vector<vector<int>>& edges,
+                         vector<bool>& online,
+                         long long k) {
+
+        int n = online.size();
+
+        vector<vector<pair<int,int>>> graph(n);
+        vector<int> indegree(n, 0);
+
+        vector<int> values;
+
+        for (auto &e : edges) {
+            int u = e[0];
+            int v = e[1];
+            int w = e[2];
+
+            graph[u].push_back({v, w});
+            indegree[v]++;
+
+            values.push_back(w);
+        }
+
+        sort(values.begin(), values.end());
+        values.erase(unique(values.begin(), values.end()), values.end());
+
+        int low = 0;
+        int high = values.size() - 1;
+
         int ans = -1;
-        while(lo <= hi){
-            int mid = lo + (hi - lo)/2;
-            if(isPossible(mid,adj,k)){
-                ans = mid;
-                lo = mid+1;
-            }else{
-                hi = mid-1;
+
+        while (low <= high) {
+
+            int mid = (low + high) / 2;
+
+            if (check(values[mid], graph, indegree, online, k)) {
+                ans = values[mid];
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
             }
         }
+
         return ans;
     }
 };
