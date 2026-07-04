@@ -1,77 +1,65 @@
 class Solution {
 public:
-    int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, long long k) {
-        int n = online.size();
 
-        vector<vector<pair<int,int>>> graph(n);
-        vector<int> indegree(n, 0);
+    bool isPossible(int mid,vector<vector<pair<int,int>>>& adj,long long k){
+       int n = adj.size();
+        vector<long long> minDist(n, -1);
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
+        
+        pq.push({0, 0});
+        minDist[0] = 0;
 
-        for (auto &e : edges) {
-            graph[e[0]].push_back({e[1], e[2]});
-            indegree[e[1]]++;
-        }
+        while(!pq.empty()) {
+            long long dist = pq.top().first;
+            int nd = pq.top().second;
+            pq.pop();
 
-        queue<int> q;
-        for (int i = 0; i < n; i++)
-            if (indegree[i] == 0)
-                q.push(i);
+            if (dist > minDist[nd]) continue;
+            if (nd == n - 1) return true;
 
-        vector<int> topo;
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
-            topo.push_back(u);
-
-            for (auto &[v, w] : graph[u]) {
-                if (--indegree[v] == 0)
-                    q.push(v);
-            }
-        }
-
-        auto check = [&](int limit) {
-            const long long INF = (1LL << 60);
-
-            vector<long long> dp(n, INF);
-            dp[0] = 0;
-
-            for (int u : topo) {
-
-                if (dp[u] == INF)
-                    continue;
-
-                if (u != 0 && u != n - 1 && !online[u])
-                    continue;
-
-                for (auto &[v, w] : graph[u]) {
-
-                    if (w < limit)
-                        continue;
-
-                    if (v != n - 1 && !online[v])
-                        continue;
-
-                    if (dp[u] + w < dp[v])
-                        dp[v] = dp[u] + w;
+            for(auto& edge : adj[nd]) {
+                int neigh = edge.first;
+                int wt = edge.second;
+                if(wt >= mid && dist + wt <= k) {
+                    if (minDist[neigh] == -1 || dist + wt < minDist[neigh]) {
+                        minDist[neigh] = dist + wt;
+                        pq.push({minDist[neigh], neigh});
+                    }
                 }
             }
+        }
+        return false;
+    }
 
-            return dp[n - 1] <= k;
-        };
+    int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, long long k) {
+       int n = online.size();
+        
+        vector<vector<pair<int,int>>> adj(n);
+        // vector<vector<pair<int,int>>> adj(maxElem + 1);
+            int maxWt = 0;
 
-        int left = 0, right = 1000000000;
-        int ans = -1;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (check(mid)) {
-                ans = mid;
-                left = mid + 1;
-            } else {
-                right = mid - 1;
+        for(int i = 0;i<edges.size();i++){
+            int u = edges[i][0];
+            int v = edges[i][1];
+            int wt = edges[i][2];
+            maxWt = max(maxWt,wt);
+            if(online[u] && online[v]){
+                adj[u].push_back({v,wt});
             }
+            // adj[v].push_back({u,wt});
         }
 
+        int lo = 0, hi = maxWt ;
+        int ans = -1;
+        while(lo <= hi){
+            int mid = lo + (hi - lo)/2;
+            if(isPossible(mid,adj,k)){
+                ans = mid;
+                lo = mid+1;
+            }else{
+                hi = mid-1;
+            }
+        }
         return ans;
     }
 };
