@@ -39,10 +39,12 @@ Leetcode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/rai-kriti/pepcp/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/rai-kriti/pepcp/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
 ## Binary Search
@@ -56,6 +58,7 @@ Leetcode
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/rai-kriti/pepcp/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
@@ -76,4 +79,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
