@@ -7,6 +7,7 @@ Leetcode
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/rai-kriti/pepcp/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/rai-kriti/pepcp/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -35,6 +36,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rai-kriti/pepcp/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -43,6 +45,7 @@ Leetcode
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/rai-kriti/pepcp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -108,6 +111,7 @@ Leetcode
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Math
