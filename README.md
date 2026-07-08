@@ -32,6 +32,7 @@ Leetcode
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rai-kriti/pepcp/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,8 +119,13 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
