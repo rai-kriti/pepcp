@@ -14,6 +14,7 @@ Leetcode
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rai-kriti/pepcp/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -33,6 +34,7 @@ Leetcode
 | [1109-corporate-flight-bookings](https://github.com/rai-kriti/pepcp/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rai-kriti/pepcp/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Greedy
@@ -78,6 +80,7 @@ Leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/rai-kriti/pepcp/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
