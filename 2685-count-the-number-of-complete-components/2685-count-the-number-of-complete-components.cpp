@@ -29,9 +29,9 @@ int dfs(int node , vector<vector<int>> &adj , vector<int> &visited ,int &edgessu
             int edgessum =0;
             int nodes =  dfs(i , adj , visited , edgessum);
 
-           int newedgessum  =  edgessum/2;
+           edgessum  =  edgessum/2;
 
-            if(newedgessum == nodes*(nodes-1)/2 ) 
+            if(edgessum == nodes*(nodes-1)/2 ) 
                 ans++  ;
         }
         
