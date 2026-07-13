@@ -1,5 +1,25 @@
 class Solution {
 public:
+    vector<int> generate() {
+        vector<int> seq;
+
+        for (int start = 1; start <= 9; start++) {
+            int num = 0;
+
+            for (int d = start; d <= 9; d++) {
+                num = num * 10 + d;
+                
+                // apne ko 10 se to bada chaiye
+                if (num >= 10) {      
+                    seq.push_back(num);
+                }
+            }
+        }
+
+        return seq;
+    }
+
+    
     vector<int> sequentialDigits(int low, int high) {
         vector<int> ans;
 
