@@ -164,4 +164,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/rai-kriti/pepcp/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
