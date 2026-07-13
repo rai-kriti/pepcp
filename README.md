@@ -5,6 +5,7 @@ Leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -69,12 +70,14 @@ Leetcode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/rai-kriti/pepcp/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -87,6 +90,7 @@ Leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
@@ -94,6 +98,7 @@ Leetcode
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -102,6 +107,7 @@ Leetcode
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/rai-kriti/pepcp/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -117,6 +123,7 @@ Leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
@@ -153,4 +160,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
