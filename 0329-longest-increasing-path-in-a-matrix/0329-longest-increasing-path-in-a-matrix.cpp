@@ -11,7 +11,7 @@ public:
         if (dp[r][c] != -1)
             return dp[r][c];
 
-        int ans = 1;
+        int currans = 1;
 
         for (int k = 0; k < 4; k++) {
             int nr = r + dr[k];
@@ -20,11 +20,11 @@ public:
             if (nr >= 0 && nr < n && nc >= 0 && nc < m &&
                 matrix[nr][nc] > matrix[r][c]) {
 
-                ans = max(ans, 1 + dfs(matrix, nr, nc));
+                currans = max(currans, 1 + dfs(matrix, nr, nc));
             }
         }
 
-        return dp[r][c] = ans;
+        return dp[r][c] = currans;
     }
 
     int longestIncreasingPath(vector<vector<int>>& matrix) {
