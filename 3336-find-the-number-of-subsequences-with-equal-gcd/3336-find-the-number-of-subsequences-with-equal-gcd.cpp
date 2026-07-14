@@ -1,34 +1,47 @@
 class Solution {
 public:
-    int mod = 1e9+7;
+    int mod = 1e9 + 7;
     int subsequencePairCount(vector<int>& nums) {
         int n = nums.size();
-         int maxi = *max_element(nums.begin() , nums.end());
-         vector<vector<vector<int>>> dp(
-            n + 1,
-            vector<vector<int>>(maxi+1, vector<int>(maxi+1, 0))
-        );
+        int maxi = *max_element(nums.begin(), nums.end());
+        vector<vector<vector<int>>> dp(
+            n + 1, vector<vector<int>>(maxi + 1, vector<int>(maxi + 1, 0)));
 
-        //base case bhar lo
-        for(int i=1 ; i<= maxi ; i++){
-            dp[n][i][i] = 1;
+            //i is curr and next is i+1
+        vector<vector<int>> curr(maxi + 1, vector<int>(maxi + 1, 0));
+        vector<vector<int>> next(maxi + 1, vector<int>(maxi + 1, 0));
+
+        // base case bhar lo
+        //  for(int i=1 ; i<= maxi ; i++){
+        //      dp[n][i][i] = 1;
+        //  }
+        for (int i = 1; i <= maxi; i++) {
+            next[i][i] = 1;
         }
-        
-        for(int i = n-1 ; i>=0 ; i--){
-            for(int g1 = 0 ; g1<= maxi ; g1++){
-                for(int g2 =0 ; g2 <= maxi ; g2++){
-                    long long ans =0;
-                    
-                    ans = (ans+ dp[i+1][g1][g2])%mod;
-                    ans = (ans+ dp[i+1][gcd(g1 , nums[i])][g2]) %mod;
-                    ans = ( ans + dp[i+1][g1][gcd(g2 , nums[i])]) %mod;
 
-                    dp[i][g1][g2] =  ans;
+        for (int i = n - 1; i >= 0; i--) {
+            for (int g1 = 0; g1 <= maxi; g1++) {
+                for (int g2 = 0; g2 <= maxi; g2++) {
+                    long long ans = 0;
+
+                    // ans = (ans+ dp[i+1][g1][g2])%mod;
+                    ans = (ans + next[g1][g2]) % mod;
+                    // ans = (ans+ dp[i+1][gcd(g1 , nums[i])][g2]) %mod;
+                    ans = (ans + next[gcd(g1, nums[i])][g2]) % mod;
+
+                    // ans = (ans + dp[i + 1][g1][gcd(g2, nums[i])]) % mod;
+                    ans = (ans + next[g1][gcd(g2, nums[i])]) % mod;
+
+                    // dp[i][g1][g2] = ans;
+                    curr[g1][g2] = ans;
+
                 }
             }
+
+            //next next will be current curr
+            next =  curr;
         }
 
-        return dp[0][0][0];
-
+        return next[0][0];
     }
 };
