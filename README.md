@@ -23,6 +23,7 @@ Leetcode
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rai-kriti/pepcp/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rai-kriti/pepcp/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rai-kriti/pepcp/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -101,6 +102,7 @@ Leetcode
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/rai-kriti/pepcp/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Graph Theory
@@ -156,6 +158,7 @@ Leetcode
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -188,4 +191,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
