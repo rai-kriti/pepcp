@@ -1,35 +1,34 @@
 class Solution {
 public:
-    int mod = 1e9 + 7;
-    int recu(int i, int g1, int g2, vector<int>& nums,vector<vector<vector<int>>>& dp) {
-        int n = nums.size();
-        // base case
-        if (i == n) {
-            if (g1 == g2 && g1 != 0 && g2 != 0)
-                return 1;
-
-            // agar last me phoch gye pr condition nhi satisfy hua to 0
-            return 0;
-        }
-
-        if (dp[i][g1][g2] != -1)
-            return dp[i][g1][g2];
-
-        int ans = 0;
-
-        ans = (ans + recu(i + 1, g1, g2, nums , dp)) % mod;
-        ans = (ans + recu(i + 1, gcd(g1, nums[i]), g2, nums , dp)) % mod;
-
-        ans = (ans + recu(i + 1, g1, gcd(g2, nums[i]), nums , dp)) % mod;
-
-        return dp[i][g1][g2] = ans;
-    }
+    int mod = 1e9+7;
     int subsequencePairCount(vector<int>& nums) {
         int n = nums.size();
+         int maxi = *max_element(nums.begin() , nums.end());
+         vector<vector<vector<int>>> dp(
+            n + 1,
+            vector<vector<int>>(maxi+1, vector<int>(maxi+1, 0))
+        );
 
-        vector<vector<vector<int>>> dp(
-            n+1, vector<vector<int>>(201, vector<int>(201, -1)));
+        //base case bhar lo
+        for(int i=1 ; i<= maxi ; i++){
+            dp[n][i][i] = 1;
+        }
+        
+        for(int i = n-1 ; i>=0 ; i--){
+            for(int g1 = 0 ; g1<= maxi ; g1++){
+                for(int g2 =0 ; g2 <= maxi ; g2++){
+                    long long ans =0;
+                    
+                    ans = (ans+ dp[i+1][g1][g2])%mod;
+                    ans = (ans+ dp[i+1][gcd(g1 , nums[i])][g2]) %mod;
+                    ans = ( ans + dp[i+1][g1][gcd(g2 , nums[i])]) %mod;
 
-        return recu(0, 0, 0, nums , dp);
+                    dp[i][g1][g2] =  ans;
+                }
+            }
+        }
+
+        return dp[0][0][0];
+
     }
 };
