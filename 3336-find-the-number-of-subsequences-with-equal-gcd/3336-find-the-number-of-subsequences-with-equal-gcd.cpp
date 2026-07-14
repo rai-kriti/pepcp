@@ -28,7 +28,7 @@ public:
         int n = nums.size();
 
         vector<vector<vector<int>>> dp(
-            n, vector<vector<int>>(201, vector<int>(201, -1)));
+            n+1, vector<vector<int>>(201, vector<int>(201, -1)));
 
         return recu(0, 0, 0, nums , dp);
     }
