@@ -78,6 +78,7 @@ Leetcode
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rai-kriti/pepcp/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/rai-kriti/pepcp/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/rai-kriti/pepcp/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ Leetcode
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rai-kriti/pepcp/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/rai-kriti/pepcp/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/rai-kriti/pepcp/tree/main/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard |
@@ -97,6 +99,7 @@ Leetcode
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rai-kriti/pepcp/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/rai-kriti/pepcp/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -230,6 +233,7 @@ Leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/rai-kriti/pepcp/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
