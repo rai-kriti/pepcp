@@ -12,6 +12,7 @@ Leetcode
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/rai-kriti/pepcp/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/rai-kriti/pepcp/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -34,6 +35,7 @@ Leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -63,6 +65,7 @@ Leetcode
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/rai-kriti/pepcp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -123,6 +126,7 @@ Leetcode
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
+| [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -172,6 +176,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
+| [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +204,7 @@ Leetcode
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
