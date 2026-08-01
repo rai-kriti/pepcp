@@ -53,6 +53,7 @@ Leetcode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -118,6 +119,7 @@ Leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/rai-kriti/pepcp/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -200,6 +202,7 @@ Leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/rai-kriti/pepcp/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -254,4 +257,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rai-kriti/pepcp/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
