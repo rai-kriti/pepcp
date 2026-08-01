@@ -205,6 +205,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
+| [0058-length-of-last-word](https://github.com/rai-kriti/pepcp/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/rai-kriti/pepcp/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
