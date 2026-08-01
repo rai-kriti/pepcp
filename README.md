@@ -190,6 +190,7 @@ Leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
@@ -200,12 +201,14 @@ Leetcode
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/rai-kriti/pepcp/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/rai-kriti/pepcp/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -215,6 +218,7 @@ Leetcode
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
