@@ -230,6 +230,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
+| [0190-reverse-bits](https://github.com/rai-kriti/pepcp/tree/main/0190-reverse-bits/) | Easy |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -286,4 +287,8 @@ Leetcode
 | [0021-merge-two-sorted-lists](https://github.com/rai-kriti/pepcp/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rai-kriti/pepcp/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/rai-kriti/pepcp/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/rai-kriti/pepcp/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
