@@ -38,6 +38,7 @@ Leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/rai-kriti/pepcp/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
@@ -185,6 +186,7 @@ Leetcode
 | ------- | ------- |
 | [0027-remove-element](https://github.com/rai-kriti/pepcp/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/rai-kriti/pepcp/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 ## Counting Sort
@@ -281,4 +283,5 @@ Leetcode
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rai-kriti/pepcp/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rai-kriti/pepcp/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/rai-kriti/pepcp/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
