@@ -184,6 +184,7 @@ Leetcode
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rai-kriti/pepcp/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -212,6 +213,7 @@ Leetcode
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/rai-kriti/pepcp/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rai-kriti/pepcp/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -221,6 +223,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rai-kriti/pepcp/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/rai-kriti/pepcp/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
@@ -403,4 +406,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/rai-kriti/pepcp/tree/main/0355-design-twitter/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 <!---LeetCode Topics End-->
