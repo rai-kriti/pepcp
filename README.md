@@ -45,6 +45,7 @@ Leetcode
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rai-kriti/pepcp/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rai-kriti/pepcp/tree/main/0264-ugly-number-ii/) | Medium |
+| [0355-design-twitter](https://github.com/rai-kriti/pepcp/tree/main/0355-design-twitter/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -177,6 +178,7 @@ Leetcode
 | [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/rai-kriti/pepcp/tree/main/0264-ugly-number-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0355-design-twitter](https://github.com/rai-kriti/pepcp/tree/main/0355-design-twitter/) | Medium |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -315,6 +317,7 @@ Leetcode
 | [0021-merge-two-sorted-lists](https://github.com/rai-kriti/pepcp/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rai-kriti/pepcp/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/rai-kriti/pepcp/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0355-design-twitter](https://github.com/rai-kriti/pepcp/tree/main/0355-design-twitter/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,4 +360,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/rai-kriti/pepcp/tree/main/0355-design-twitter/) | Medium |
 <!---LeetCode Topics End-->
