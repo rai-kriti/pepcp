@@ -11,6 +11,7 @@ Leetcode
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -75,6 +76,7 @@ Leetcode
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -106,6 +108,7 @@ Leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rai-kriti/pepcp/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -156,6 +159,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -172,6 +176,7 @@ Leetcode
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/rai-kriti/pepcp/tree/main/0264-ugly-number-ii/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -242,6 +247,7 @@ Leetcode
 | [0072-edit-distance](https://github.com/rai-kriti/pepcp/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0168-excel-sheet-column-title](https://github.com/rai-kriti/pepcp/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
@@ -339,4 +345,16 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
