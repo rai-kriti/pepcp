@@ -9,6 +9,7 @@ Leetcode
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/rai-kriti/pepcp/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
@@ -167,6 +168,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -311,6 +313,7 @@ Leetcode
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Sweep Line
 | Problem Name | Difficulty |
@@ -320,4 +323,16 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
