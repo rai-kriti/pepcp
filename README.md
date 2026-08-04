@@ -25,6 +25,7 @@ Leetcode
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
@@ -96,6 +97,7 @@ Leetcode
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/rai-kriti/pepcp/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
+| [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
@@ -214,6 +216,7 @@ Leetcode
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rai-kriti/pepcp/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -253,6 +256,7 @@ Leetcode
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -361,6 +365,7 @@ Leetcode
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/rai-kriti/pepcp/tree/main/0190-reverse-bits/) | Easy |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
+| [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,4 +415,16 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
