@@ -11,6 +11,7 @@ Leetcode
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -39,6 +40,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rai-kriti/pepcp/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
@@ -58,6 +60,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -69,6 +72,7 @@ Leetcode
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
@@ -159,6 +163,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rai-kriti/pepcp/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -294,4 +299,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/rai-kriti/pepcp/tree/main/0190-reverse-bits/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->
