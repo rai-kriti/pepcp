@@ -443,4 +443,5 @@ Leetcode
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/rai-kriti/pepcp/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
