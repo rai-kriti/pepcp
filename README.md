@@ -6,6 +6,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/rai-kriti/pepcp/tree/main/0027-remove-element/) | Easy |
+| [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/rai-kriti/pepcp/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -440,5 +441,6 @@ Leetcode
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
