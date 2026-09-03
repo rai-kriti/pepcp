@@ -10,6 +10,7 @@ Leetcode
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/rai-kriti/pepcp/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0216-combination-sum-iii](https://github.com/rai-kriti/pepcp/tree/main/0216-combination-sum-iii/) | Medium |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -444,4 +445,5 @@ Leetcode
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/rai-kriti/pepcp/tree/main/0077-combinations/) | Medium |
+| [0216-combination-sum-iii](https://github.com/rai-kriti/pepcp/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
