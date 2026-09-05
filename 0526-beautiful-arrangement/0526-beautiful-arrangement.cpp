@@ -3,37 +3,40 @@
 class Solution {
 public:
     int countArrangement(int n) {
-        // Create a memoization table for 2^(n+1) possible states.
-        // Initialize with -1 to indicate uncalculated states.
-        std::vector<int> memo(1 << (n + 1), -1);
+        // max_mask represents 2^n. If n=3, max_mask = 8 (1000 in binary).
+        int max_mask = 1 << n;
         
-        // Start filling from position 'n' down to 1 to maximize pruning
-        return dfs(n, n, 0, memo);
-    }
-    
-private:
-    int dfs(int n, int pos, int mask, std::vector<int>& memo) {
-        // Base case: If we successfully reached position 0, we found 1 valid arrangement
-        if (pos == 0) return 1;
+        // dp[mask] stores the number of valid arrangements for a given subset of numbers.
+        std::vector<int> dp(max_mask, 0);
         
-        // Return the cached result if we've seen this exact bitmask before
-        if (memo[mask] != -1) return memo[mask];
+        // Base case: There is exactly 1 way to arrange an empty set of numbers.
+        dp[0] = 1;
         
-        int total_arrangements = 0;
-        
-        for (int i = 1; i <= n; ++i) {
-            // Check if the i-th bit is NOT set (meaning number 'i' is available)
-            if (!(mask & (1 << i))) {
+        // Iterate through every possible subset of numbers from 1 to (2^n - 1)
+        for (int mask = 1; mask < max_mask; ++mask) {
+            
+            // __builtin_popcount efficiently counts the number of set bits (1s).
+            // This tells us which 1-indexed position we are currently filling.
+            int pos = __builtin_popcount(mask);
+            
+            // Try to place every available number 'i' at the current 'pos'
+            for (int i = 1; i <= n; ++i) {
                 
-                // Check the beautiful arrangement mathematical condition
-                if (i % pos == 0 || pos % i == 0) {
-                    // Mark 'i' as used by using bitwise OR, and move to the next position
-                    total_arrangements += dfs(n, pos - 1, mask | (1 << i), memo);
+                // Check if the (i-1)-th bit is set (meaning number 'i' is in our current subset)
+                if (mask & (1 << (i - 1))) {
+                    
+                    // Check the beautiful arrangement mathematical condition
+                    if (i % pos == 0 || pos % i == 0) {
+                        
+                        // If valid, add the arrangements from the subproblem where 'i' was NOT included.
+                        // We use XOR (^) to flip the (i-1)-th bit to 0 to look up that previous state.
+                        dp[mask] += dp[mask ^ (1 << (i - 1))];
+                    }
                 }
             }
         }
         
-        // Cache and return the result for this state
-        return memo[mask] = total_arrangements;
+        // The final answer is the state where all 'n' bits are set (e.g., 111...1)
+        return dp[max_mask - 1];
     }
 };
