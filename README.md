@@ -9,6 +9,7 @@ Leetcode
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/rai-kriti/pepcp/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/rai-kriti/pepcp/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/rai-kriti/pepcp/tree/main/0090-subsets-ii/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/rai-kriti/pepcp/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -132,6 +133,7 @@ Leetcode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/rai-kriti/pepcp/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -247,6 +249,7 @@ Leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/rai-kriti/pepcp/tree/main/0079-word-search/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rai-kriti/pepcp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rai-kriti/pepcp/tree/main/1210-minimum-moves-to-reach-target-with-rotations/) | Hard |
@@ -306,6 +309,7 @@ Leetcode
 | [0058-length-of-last-word](https://github.com/rai-kriti/pepcp/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/rai-kriti/pepcp/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/rai-kriti/pepcp/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/rai-kriti/pepcp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/rai-kriti/pepcp/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -455,6 +459,7 @@ Leetcode
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/rai-kriti/pepcp/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/rai-kriti/pepcp/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/rai-kriti/pepcp/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/rai-kriti/pepcp/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/rai-kriti/pepcp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/rai-kriti/pepcp/tree/main/0216-combination-sum-iii/) | Medium |
