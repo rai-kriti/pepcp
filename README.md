@@ -317,6 +317,7 @@ Leetcode
 | [0168-excel-sheet-column-title](https://github.com/rai-kriti/pepcp/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -327,6 +328,7 @@ Leetcode
 | [0078-subsets](https://github.com/rai-kriti/pepcp/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/rai-kriti/pepcp/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/rai-kriti/pepcp/tree/main/0190-reverse-bits/) | Easy |
+| [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -466,6 +468,7 @@ Leetcode
 | [0090-subsets-ii](https://github.com/rai-kriti/pepcp/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/rai-kriti/pepcp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/rai-kriti/pepcp/tree/main/0216-combination-sum-iii/) | Medium |
+| [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
