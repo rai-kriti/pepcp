@@ -172,6 +172,7 @@ Leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rai-kriti/pepcp/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/rai-kriti/pepcp/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
@@ -299,6 +300,7 @@ Leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rai-kriti/pepcp/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/rai-kriti/pepcp/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/rai-kriti/pepcp/tree/main/0058-length-of-last-word/) | Easy |
@@ -448,6 +450,7 @@ Leetcode
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rai-kriti/pepcp/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/rai-kriti/pepcp/tree/main/0077-combinations/) | Medium |
@@ -455,4 +458,8 @@ Leetcode
 | [0090-subsets-ii](https://github.com/rai-kriti/pepcp/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/rai-kriti/pepcp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/rai-kriti/pepcp/tree/main/0216-combination-sum-iii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rai-kriti/pepcp/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
