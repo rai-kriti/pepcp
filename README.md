@@ -8,6 +8,7 @@ Leetcode
 | [0027-remove-element](https://github.com/rai-kriti/pepcp/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/rai-kriti/pepcp/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/rai-kriti/pepcp/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0216-combination-sum-iii](https://github.com/rai-kriti/pepcp/tree/main/0216-combination-sum-iii/) | Medium |
@@ -312,6 +313,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/rai-kriti/pepcp/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/rai-kriti/pepcp/tree/main/0190-reverse-bits/) | Easy |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Memoization
@@ -445,5 +447,6 @@ Leetcode
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/rai-kriti/pepcp/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/rai-kriti/pepcp/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/rai-kriti/pepcp/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
