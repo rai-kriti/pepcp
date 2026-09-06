@@ -297,6 +297,7 @@ Leetcode
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
+| [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rai-kriti/pepcp/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -338,6 +339,7 @@ Leetcode
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0980-unique-paths-iii](https://github.com/rai-kriti/pepcp/tree/main/0980-unique-paths-iii/) | Hard |
+| [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -480,6 +482,7 @@ Leetcode
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0980-unique-paths-iii](https://github.com/rai-kriti/pepcp/tree/main/0980-unique-paths-iii/) | Hard |
+| [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
