@@ -48,6 +48,7 @@ Leetcode
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -70,6 +71,7 @@ Leetcode
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rai-kriti/pepcp/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rai-kriti/pepcp/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -324,6 +326,7 @@ Leetcode
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -477,6 +480,7 @@ Leetcode
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0980-unique-paths-iii](https://github.com/rai-kriti/pepcp/tree/main/0980-unique-paths-iii/) | Hard |
+| [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
