@@ -41,6 +41,7 @@ Leetcode
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/rai-kriti/pepcp/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rai-kriti/pepcp/tree/main/1210-minimum-moves-to-reach-target-with-rotations/) | Hard |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/rai-kriti/pepcp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -70,6 +71,7 @@ Leetcode
 | [0355-design-twitter](https://github.com/rai-kriti/pepcp/tree/main/0355-design-twitter/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -197,6 +199,7 @@ Leetcode
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
@@ -287,6 +290,7 @@ Leetcode
 | [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rai-kriti/pepcp/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -329,6 +333,7 @@ Leetcode
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rai-kriti/pepcp/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -343,6 +348,7 @@ Leetcode
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0980-unique-paths-iii](https://github.com/rai-kriti/pepcp/tree/main/0980-unique-paths-iii/) | Hard |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Memoization
@@ -487,6 +493,7 @@ Leetcode
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0980-unique-paths-iii](https://github.com/rai-kriti/pepcp/tree/main/0980-unique-paths-iii/) | Hard |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rai-kriti/pepcp/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -498,6 +505,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
