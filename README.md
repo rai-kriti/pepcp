@@ -48,6 +48,7 @@ Leetcode
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
@@ -197,6 +198,7 @@ Leetcode
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
@@ -341,6 +343,7 @@ Leetcode
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0980-unique-paths-iii](https://github.com/rai-kriti/pepcp/tree/main/0980-unique-paths-iii/) | Hard |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -485,6 +488,7 @@ Leetcode
 | [0980-unique-paths-iii](https://github.com/rai-kriti/pepcp/tree/main/0980-unique-paths-iii/) | Hard |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rai-kriti/pepcp/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -494,8 +498,37 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/rai-kriti/pepcp/tree/main/0980-unique-paths-iii/) | Hard |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Matching (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Perfect Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Minimum-Cost Flow
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+## Flow Network
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 <!---LeetCode Topics End-->
