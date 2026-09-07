@@ -53,6 +53,7 @@ Leetcode
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
+| [2305-fair-distribution-of-cookies](https://github.com/rai-kriti/pepcp/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rai-kriti/pepcp/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rai-kriti/pepcp/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -203,6 +204,7 @@ Leetcode
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
+| [2305-fair-distribution-of-cookies](https://github.com/rai-kriti/pepcp/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/rai-kriti/pepcp/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -350,6 +352,7 @@ Leetcode
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/rai-kriti/pepcp/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -497,6 +500,7 @@ Leetcode
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rai-kriti/pepcp/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/rai-kriti/pepcp/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +511,7 @@ Leetcode
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/rai-kriti/pepcp/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
