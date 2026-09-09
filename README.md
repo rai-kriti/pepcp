@@ -6,6 +6,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/rai-kriti/pepcp/tree/main/0027-remove-element/) | Easy |
+| [0037-sudoku-solver](https://github.com/rai-kriti/pepcp/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/rai-kriti/pepcp/tree/main/0051-n-queens/) | Hard |
@@ -70,6 +71,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rai-kriti/pepcp/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/rai-kriti/pepcp/tree/main/0037-sudoku-solver/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/rai-kriti/pepcp/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rai-kriti/pepcp/tree/main/0264-ugly-number-ii/) | Medium |
 | [0355-design-twitter](https://github.com/rai-kriti/pepcp/tree/main/0355-design-twitter/) | Medium |
@@ -266,6 +268,7 @@ Leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/rai-kriti/pepcp/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/rai-kriti/pepcp/tree/main/0079-word-search/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rai-kriti/pepcp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -491,6 +494,7 @@ Leetcode
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rai-kriti/pepcp/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/rai-kriti/pepcp/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/rai-kriti/pepcp/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/rai-kriti/pepcp/tree/main/0051-n-queens/) | Hard |
@@ -566,5 +570,10 @@ Leetcode
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/rai-kriti/pepcp/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/rai-kriti/pepcp/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/rai-kriti/pepcp/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
