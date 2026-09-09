@@ -20,7 +20,7 @@ public:
             int bit = remaining & -remaining;
 
             remaining -= bit;
-
+            //right se count karke first 1 kis position par hai, woh batana.
             int c = __builtin_ctz(bit);
 
             board[row][c] = 'Q';
