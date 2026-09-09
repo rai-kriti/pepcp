@@ -8,6 +8,7 @@ Leetcode
 | [0027-remove-element](https://github.com/rai-kriti/pepcp/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/rai-kriti/pepcp/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/rai-kriti/pepcp/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/rai-kriti/pepcp/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rai-kriti/pepcp/tree/main/0088-merge-sorted-array/) | Easy |
@@ -492,6 +493,7 @@ Leetcode
 | [0022-generate-parentheses](https://github.com/rai-kriti/pepcp/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/rai-kriti/pepcp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/rai-kriti/pepcp/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/rai-kriti/pepcp/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/rai-kriti/pepcp/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/rai-kriti/pepcp/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/rai-kriti/pepcp/tree/main/0079-word-search/) | Medium |
@@ -561,4 +563,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/rai-kriti/pepcp/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
