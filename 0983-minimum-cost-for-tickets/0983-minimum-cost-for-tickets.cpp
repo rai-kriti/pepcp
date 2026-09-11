@@ -1,39 +1,39 @@
 #include <vector>
-#include <queue>
 #include <algorithm>
 
 class Solution {
 public:
     int mincostTickets(std::vector<int>& days, std::vector<int>& costs) {
-        // Queues store pairs of: {day, total_cost_if_pass_bought_on_that_day}
-        std::queue<std::pair<int, int>> last7;
-        std::queue<std::pair<int, int>> last30;
-        int current_cost = 0;
+        // Fast I/O
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(NULL);
 
-        for (int day : days) {
-            // Evict passes that expired before the current day
-            while (!last7.empty() && last7.front().first + 7 <= day) {
-                last7.pop();
+        int n = days.size();
+        std::vector<int> dp(n + 1, 0);
+
+        int j7 = n - 1;
+        int j30 = n - 1;
+
+        // Backward DP with two monotonic pointers
+        for (int i = n - 1; i >= 0; --i) {
+            // 1-day pass
+            int c1 = costs[0] + dp[i + 1];
+
+            // 7-day pass: find first day not covered by days[i] + 6
+            while (j7 >= 0 && days[j7] > days[i] + 6) {
+                --j7;
             }
-            while (!last30.empty() && last30.front().first + 30 <= day) {
-                last30.pop();
+            int c7 = costs[1] + dp[j7 + 1];
+
+            // 30-day pass: find first day not covered by days[i] + 29
+            while (j30 >= 0 && days[j30] > days[i] + 29) {
+                --j30;
             }
+            int c30 = costs[2] + dp[j30 + 1];
 
-            // Buying a 7-day or 30-day pass starting today extends from current_cost
-            last7.push({day, current_cost + costs[1]});
-            last30.push({day, current_cost + costs[2]});
-
-            // The minimum cost to cover up to this day is the cheapest of:
-            // 1. Extending the previous day with a 1-day pass
-            // 2. The cheapest active 7-day pass (earliest valid pass in the queue)
-            // 3. The cheapest active 30-day pass (earliest valid pass in the queue)
-            current_cost = std::min({
-                current_cost + costs[0],
-                last7.front().second,
-                last30.front().second
-            });
+            dp[i] = std::min({c1, c7, c30});
         }
 
-        return current_cost;
+        return dp[0];
     }
 };
