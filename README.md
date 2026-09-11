@@ -205,6 +205,7 @@ Leetcode
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
+| [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -313,6 +314,7 @@ Leetcode
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
+| [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -576,4 +578,16 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/rai-kriti/pepcp/tree/main/0037-sudoku-solver/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
