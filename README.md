@@ -18,6 +18,7 @@ Leetcode
 | [0216-combination-sum-iii](https://github.com/rai-kriti/pepcp/tree/main/0216-combination-sum-iii/) | Medium |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/rai-kriti/pepcp/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0322-coin-change](https://github.com/rai-kriti/pepcp/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -172,6 +173,7 @@ Leetcode
 | ------- | ------- |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/rai-kriti/pepcp/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rai-kriti/pepcp/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/rai-kriti/pepcp/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -204,6 +206,7 @@ Leetcode
 | [0131-palindrome-partitioning](https://github.com/rai-kriti/pepcp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0264-ugly-number-ii](https://github.com/rai-kriti/pepcp/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/rai-kriti/pepcp/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0338-counting-bits](https://github.com/rai-kriti/pepcp/tree/main/0338-counting-bits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -581,12 +584,14 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/rai-kriti/pepcp/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/rai-kriti/pepcp/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 ## Algorithm X
