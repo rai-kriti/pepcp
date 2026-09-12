@@ -169,6 +169,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rai-kriti/pepcp/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/rai-kriti/pepcp/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -200,6 +201,7 @@ Leetcode
 | [0119-pascals-triangle-ii](https://github.com/rai-kriti/pepcp/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/rai-kriti/pepcp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0264-ugly-number-ii](https://github.com/rai-kriti/pepcp/tree/main/0264-ugly-number-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0338-counting-bits](https://github.com/rai-kriti/pepcp/tree/main/0338-counting-bits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -320,6 +322,7 @@ Leetcode
 | [0069-sqrtx](https://github.com/rai-kriti/pepcp/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/rai-kriti/pepcp/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rai-kriti/pepcp/tree/main/0264-ugly-number-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
@@ -574,11 +577,13 @@ Leetcode
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 ## Algorithm X
