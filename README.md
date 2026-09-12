@@ -146,6 +146,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/rai-kriti/pepcp/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rai-kriti/pepcp/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -201,6 +202,7 @@ Leetcode
 | [0022-generate-parentheses](https://github.com/rai-kriti/pepcp/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/rai-kriti/pepcp/tree/main/0072-edit-distance/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/rai-kriti/pepcp/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rai-kriti/pepcp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/rai-kriti/pepcp/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/rai-kriti/pepcp/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -327,6 +329,7 @@ Leetcode
 | [0043-multiply-strings](https://github.com/rai-kriti/pepcp/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/rai-kriti/pepcp/tree/main/0069-sqrtx/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/rai-kriti/pepcp/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/rai-kriti/pepcp/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rai-kriti/pepcp/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
@@ -422,12 +425,14 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/rai-kriti/pepcp/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/rai-kriti/pepcp/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rai-kriti/pepcp/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
