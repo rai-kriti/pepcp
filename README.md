@@ -25,6 +25,7 @@ Leetcode
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rai-kriti/pepcp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/rai-kriti/pepcp/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
+| [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
@@ -200,6 +201,7 @@ Leetcode
 | [0338-counting-bits](https://github.com/rai-kriti/pepcp/tree/main/0338-counting-bits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -568,10 +570,12 @@ Leetcode
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
