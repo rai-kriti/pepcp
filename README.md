@@ -29,6 +29,7 @@ Leetcode
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/rai-kriti/pepcp/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rai-kriti/pepcp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -102,6 +103,7 @@ Leetcode
 | [0044-wildcard-matching](https://github.com/rai-kriti/pepcp/tree/main/0044-wildcard-matching/) | Hard |
 | [0502-ipo](https://github.com/rai-kriti/pepcp/tree/main/0502-ipo/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/rai-kriti/pepcp/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/rai-kriti/pepcp/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
@@ -120,6 +122,7 @@ Leetcode
 | [0502-ipo](https://github.com/rai-kriti/pepcp/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/rai-kriti/pepcp/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rai-kriti/pepcp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/rai-kriti/pepcp/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
@@ -204,6 +207,7 @@ Leetcode
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/rai-kriti/pepcp/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rai-kriti/pepcp/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -598,4 +602,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/rai-kriti/pepcp/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
