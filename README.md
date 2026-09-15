@@ -57,6 +57,7 @@ Leetcode
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
@@ -139,6 +140,7 @@ Leetcode
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -233,6 +235,7 @@ Leetcode
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/rai-kriti/pepcp/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/rai-kriti/pepcp/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -635,6 +638,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/rai-kriti/pepcp/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
