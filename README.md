@@ -24,6 +24,7 @@ Leetcode
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rai-kriti/pepcp/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rai-kriti/pepcp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0502-ipo](https://github.com/rai-kriti/pepcp/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
@@ -214,6 +215,7 @@ Leetcode
 | [0343-integer-break](https://github.com/rai-kriti/pepcp/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/rai-kriti/pepcp/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -366,6 +368,7 @@ Leetcode
 | [0131-palindrome-partitioning](https://github.com/rai-kriti/pepcp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/rai-kriti/pepcp/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0784-letter-case-permutation](https://github.com/rai-kriti/pepcp/tree/main/0784-letter-case-permutation/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -595,6 +598,7 @@ Leetcode
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/rai-kriti/pepcp/tree/main/0322-coin-change/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 ## Complete Knapsack
@@ -629,4 +633,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/rai-kriti/pepcp/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
 <!---LeetCode Topics End-->
