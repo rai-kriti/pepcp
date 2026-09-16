@@ -4,40 +4,44 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<vector<long long>> mx(m, vector<long long>(n));
-        vector<vector<long long>> mn(m, vector<long long>(n));
+        vector<long long> mx(n);
+        vector<long long> mn(n);
 
-        mx[0][0] = mn[0][0] = grid[0][0];
+        mx[0] = mn[0] = grid[0][0];
 
         // First row
         for (int j = 1; j < n; j++) {
-            mx[0][j] = mn[0][j] = mx[0][j - 1] * grid[0][j];
+            mx[j] = mn[j] = mx[j - 1] * grid[0][j];
         }
 
-        // First column
         for (int i = 1; i < m; i++) {
-            mx[i][0] = mn[i][0] = mx[i - 1][0] * grid[i][0];
-        }
 
-        // Remaining cells
-        for (int i = 1; i < m; i++) {
+            // First column
+            mx[0] = mn[0] = mx[0] * grid[i][0];
+
             for (int j = 1; j < n; j++) {
 
                 long long x = grid[i][j];
 
-                long long a = mx[i - 1][j] * x; // from top, max
-                long long b = mn[i - 1][j] * x; // from top, min
-                long long c = mx[i][j - 1] * x; // from left, max
-                long long d = mn[i][j - 1] * x; // from left, min
+                long long topMax = mx[j];
+                long long topMin = mn[j];
 
-                mx[i][j] = max({a, b, c, d});
-                mn[i][j] = min({a, b, c, d});
+                long long leftMax = mx[j - 1];
+                long long leftMin = mn[j - 1];
+
+                long long a = topMax * x;
+                long long b = topMin * x;
+                long long c = leftMax * x;
+                long long d = leftMin * x;
+
+                mx[j] = max({a, b, c, d});
+                mn[j] = min({a, b, c, d});
             }
         }
 
-        if (mx[m - 1][n - 1] < 0)
+        if (mx[n - 1] < 0)
             return -1;
 
-        return mx[m - 1][n - 1] % 1000000007;
+        return mx[n - 1] % 1000000007;
     }
 };
