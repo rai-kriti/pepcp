@@ -42,3 +42,8 @@ public:
         return ans;
     }
 };
+// 1  1   → moves right
+// 1 -1   → stuck
+
+// -1 -1  → moves left
+// -1  1  → stuck
