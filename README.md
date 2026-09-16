@@ -58,6 +58,7 @@ Leetcode
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1706-where-will-the-ball-fall](https://github.com/rai-kriti/pepcp/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
@@ -304,6 +305,7 @@ Leetcode
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rai-kriti/pepcp/tree/main/1210-minimum-moves-to-reach-target-with-rotations/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/rai-kriti/pepcp/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1706-where-will-the-ball-fall](https://github.com/rai-kriti/pepcp/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/rai-kriti/pepcp/tree/main/3393-count-paths-with-the-given-xor-value/) | Medium |
 ## Union-Find
@@ -357,6 +359,7 @@ Leetcode
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/rai-kriti/pepcp/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/rai-kriti/pepcp/tree/main/0067-add-binary/) | Easy |
+| [1706-where-will-the-ball-fall](https://github.com/rai-kriti/pepcp/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 ## String
 | Problem Name | Difficulty |
