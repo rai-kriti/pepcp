@@ -230,6 +230,7 @@ Leetcode
 | [0650-2-keys-keyboard](https://github.com/rai-kriti/pepcp/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rai-kriti/pepcp/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0799-champagne-tower](https://github.com/rai-kriti/pepcp/tree/main/0799-champagne-tower/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/rai-kriti/pepcp/tree/main/0931-minimum-falling-path-sum/) | Medium |
