@@ -238,6 +238,7 @@ Leetcode
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/rai-kriti/pepcp/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/rai-kriti/pepcp/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
