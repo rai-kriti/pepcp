@@ -1,38 +1,54 @@
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
-    double memo[25][25][101];
-
-    // 8 possible knight moves
-    int moves[8][2] = {
-        {-2, -1}, {-2, 1}, {-1, -2}, {-1, 2},
-        {1, -2},  {1, 2},  {2, -1},  {2, 1}
-    };
-
-    double solve(int n, int k, int r, int c) {
-        // Out of bounds -> off board
-        if (r < 0 || r >= n || c < 0 || c >= n) return 0.0;
-
-        // All moves completed -> safely on board
-        if (k == 0) return 1.0;
-
-        // Memoization check
-        if (memo[r][c][k] > 0.0) return memo[r][c][k];
-
-        double prob = 0.0;
-        for (auto& m : moves) {
-            prob += solve(n, k - 1, r + m[0], c + m[1]) / 8.0;
-        }
-
-        return memo[r][c][k] = prob;
-    }
-
 public:
     double knightProbability(int n, int k, int row, int column) {
-        fill(&memo[0][0][0], &memo[0][0][0] + 25 * 25 * 101, 0.0);
-        return solve(n, k, row, column);
+
+        int moves[8][2] = {
+            {-2, -1}, {-2, 1},
+            {-1, -2}, {-1, 2},
+            {1, -2},  {1, 2},
+            {2, -1},  {2, 1}
+        };
+
+        vector<vector<double>> dp(n, vector<double>(n, 0));
+
+        dp[row][column] = 1;
+
+        for (int step = 0; step < k; step++) {
+
+            vector<vector<double>> next(n, vector<double>(n, 0));
+
+            for (int r = 0; r < n; r++) {
+
+                for (int c = 0; c < n; c++) {
+
+                    if (dp[r][c] == 0)
+                        continue;
+
+                    for (int m = 0; m < 8; m++) {
+
+                        int nr = r + moves[m][0];
+                        int nc = c + moves[m][1];
+
+                        if (nr >= 0 && nr < n &&
+                            nc >= 0 && nc < n) {
+
+                            next[nr][nc] += dp[r][c] / 8.0;
+                        }
+                    }
+                }
+            }
+
+            dp = next;
+        }
+
+        double answer = 0;
+
+        for (int r = 0; r < n; r++) {
+            for (int c = 0; c < n; c++) {
+                answer += dp[r][c];
+            }
+        }
+
+        return answer;
     }
 };
