@@ -107,6 +107,7 @@ Leetcode
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1109-corporate-flight-bookings](https://github.com/rai-kriti/pepcp/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rai-kriti/pepcp/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
@@ -255,6 +256,7 @@ Leetcode
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
@@ -371,6 +373,7 @@ Leetcode
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rai-kriti/pepcp/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -667,4 +670,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
