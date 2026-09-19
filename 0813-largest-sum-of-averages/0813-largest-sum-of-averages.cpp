@@ -1,33 +1,5 @@
 class Solution {
 public:
-
-    double dp[101][101];
-
-    double solve(int start, int k, vector<double>& prefix, int n) {
-
-        if (k == 1) {
-            return (prefix[n] - prefix[start]) / (n - start);
-        }
-
-        if (dp[start][k] != -1) {
-            return dp[start][k];
-        }
-
-        double ans = 0;
-
-        for (int end = start; end < n - 1; end++) {
-
-            double sum = prefix[end + 1] - prefix[start];
-            double average = sum / (end - start + 1);
-
-            double remaining = solve(end + 1, k - 1, prefix, n);
-
-            ans = max(ans, average + remaining);
-        }
-
-        return dp[start][k] = ans;
-    }
-
     double largestSumOfAverages(vector<int>& nums, int k) {
 
         int n = nums.size();
@@ -38,12 +10,33 @@ public:
             prefix[i + 1] = prefix[i] + nums[i];
         }
 
-        for (int i = 0; i <= n; i++) {
-            for (int j = 0; j <= k; j++) {
-                dp[i][j] = -1;
-            }
+        vector<double> dp(n + 1, 0);
+
+        // 1 group
+        for (int i = 1; i <= n; i++) {
+            dp[i] = prefix[i] / i;
         }
 
-        return solve(0, k, prefix, n);
+        // 2 to k groups
+        for (int groups = 2; groups <= k; groups++) {
+
+            vector<double> next(n + 1, 0);
+
+            for (int i = groups; i <= n; i++) {
+
+                for (int j = groups - 1; j < i; j++) {
+
+                    double average =
+                        (prefix[i] - prefix[j]) / (i - j);
+
+                    next[i] = max(next[i],
+                                  dp[j] + average);
+                }
+            }
+
+            dp = next;
+        }
+
+        return dp[n];
     }
 };
