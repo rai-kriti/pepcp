@@ -6,36 +6,30 @@ using namespace std;
 class Solution {
 public:
     int videoStitching(vector<vector<int>>& clips, int time) {
-        // max_reach[i] store karega ki start point 'i' se maximum kitni aage tak ja sakte hain
-        vector<int> max_reach(time + 1, 0);
-        
-        for (const auto& clip : clips) {
-            int start = clip[0];
-            int end = clip[1];
-            if (start <= time) {
-                max_reach[start] = max(max_reach[start], end);
-            }
-        }
+        // Sort clips primarily by start time
+        sort(clips.begin(), clips.end());
         
         int count = 0;
         int curr_end = 0;
         int far_end = 0;
+        int i = 0, n = clips.size();
         
-        for (int i = 0; i < time; i++) {
-            // Abhi tak ke saare reachable points me se farthest end compute karo
-            far_end = max(far_end, max_reach[i]);
-            
-            // Jab hum current boundary ke end tak pahunch jayein
-            if (i == curr_end) {
-                // Agar hum aage nahi badh pa rahe, toh coverage impossible hai
-                if (far_end <= i) {
-                    return -1;
-                }
-                count++;
-                curr_end = far_end; // Agli boundary set karo
+        while (curr_end < time) {
+            // Pick all valid clips starting <= curr_end and find max reach
+            while (i < n && clips[i][0] <= curr_end) {
+                far_end = max(far_end, clips[i][1]);
+                i++;
             }
+            
+            // If no clip can extend curr_end, a gap exists
+            if (curr_end == far_end) {
+                return -1;
+            }
+            
+            curr_end = far_end;
+            count++;
         }
         
-        return curr_end >= time ? count : -1;
+        return count;
     }
 };
