@@ -26,11 +26,9 @@ public:
 
                 for (int j = groups - 1; j < i; j++) {
 
-                    double average =
-                        (prefix[i] - prefix[j]) / (i - j);
+                    double average = (prefix[i] - prefix[j]) / (i - j);
 
-                    next[i] = max(next[i],
-                                  dp[j] + average);
+                    next[i] = max(next[i], dp[j] + average);
                 }
             }
 
