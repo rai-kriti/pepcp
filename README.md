@@ -36,6 +36,7 @@ Leetcode
 | [0658-find-k-closest-elements](https://github.com/rai-kriti/pepcp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0813-largest-sum-of-averages](https://github.com/rai-kriti/pepcp/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/rai-kriti/pepcp/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -102,6 +103,7 @@ Leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0813-largest-sum-of-averages](https://github.com/rai-kriti/pepcp/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1109-corporate-flight-bookings](https://github.com/rai-kriti/pepcp/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -238,6 +240,7 @@ Leetcode
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rai-kriti/pepcp/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0799-champagne-tower](https://github.com/rai-kriti/pepcp/tree/main/0799-champagne-tower/) | Medium |
+| [0813-largest-sum-of-averages](https://github.com/rai-kriti/pepcp/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/rai-kriti/pepcp/tree/main/0931-minimum-falling-path-sum/) | Medium |
