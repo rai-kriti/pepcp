@@ -266,6 +266,7 @@ Leetcode
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/rai-kriti/pepcp/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/rai-kriti/pepcp/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rai-kriti/pepcp/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -689,4 +690,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rai-kriti/pepcp/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 <!---LeetCode Topics End-->
