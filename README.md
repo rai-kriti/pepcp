@@ -168,6 +168,7 @@ Leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/rai-kriti/pepcp/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/rai-kriti/pepcp/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/rai-kriti/pepcp/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -193,6 +194,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/rai-kriti/pepcp/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0279-perfect-squares](https://github.com/rai-kriti/pepcp/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/rai-kriti/pepcp/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -482,6 +484,7 @@ Leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/rai-kriti/pepcp/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/rai-kriti/pepcp/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/rai-kriti/pepcp/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/rai-kriti/pepcp/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rai-kriti/pepcp/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/rai-kriti/pepcp/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Search Tree
