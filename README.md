@@ -64,6 +64,7 @@ Leetcode
 | [1288-remove-covered-intervals](https://github.com/rai-kriti/pepcp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rai-kriti/pepcp/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/rai-kriti/pepcp/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -283,6 +284,7 @@ Leetcode
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/rai-kriti/pepcp/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rai-kriti/pepcp/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/rai-kriti/pepcp/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -674,6 +676,7 @@ Leetcode
 | [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/rai-kriti/pepcp/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -681,6 +684,7 @@ Leetcode
 | [0322-coin-change](https://github.com/rai-kriti/pepcp/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/rai-kriti/pepcp/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
