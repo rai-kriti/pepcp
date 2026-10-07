@@ -259,6 +259,7 @@ Leetcode
 | [0516-longest-palindromic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0552-student-attendance-record-ii](https://github.com/rai-kriti/pepcp/tree/main/0552-student-attendance-record-ii/) | Hard |
 | [0576-out-of-boundary-paths](https://github.com/rai-kriti/pepcp/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 | [0639-decode-ways-ii](https://github.com/rai-kriti/pepcp/tree/main/0639-decode-ways-ii/) | Hard |
