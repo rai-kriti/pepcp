@@ -1,42 +1,62 @@
 class Solution {
-    vector<vector<int>> dp;
+public:
+    vector<int> dp;
 
-    int solve(int index, int remaining, vector<int>& cost) {
-        if (remaining == 0) return 0;
-        if (index < 0) return -1;
+    int solve(vector<int>& cost, int target) {
 
-        int& best = dp[index][remaining];
-        if (best != -2) return best;
+        if (target == 0)
+            return 0;
 
-        best = solve(index - 1, remaining, cost);
+        // -2 means not calculated yet
+        if (dp[target] != -2)
+            return dp[target];
 
-        if (remaining >= cost[index]) {
-            int take = solve(index, remaining - cost[index], cost);
+        int best = -1;  // -1 means impossible
 
-            if (take != -1) {
-                best = max(best, 1 + take);
+        for (int d = 1; d <= 9; d++) {
+
+            if (cost[d - 1] <= target) {
+
+                int next = solve(cost, target - cost[d - 1]);
+
+                if (next != -1) {
+                    best = max(best, 1 + next);
+                }
             }
         }
 
-        return best;
+        return dp[target] = best;
     }
 
-public:
     string largestNumber(vector<int>& cost, int target) {
-        dp.assign(9, vector<int>(target + 1, -2));
 
-        if (solve(8, target, cost) == -1) return "0";
+        // -2 = not calculated
+        dp.resize(target + 1, -2);
 
-        string answer;
-        int remaining = target;
+        int length = solve(cost, target);
 
-        for (int index = 8; index >= 0; index--) {
-            while (remaining >= cost[index] && solve(index, remaining, cost) ==  1 + solve(index, remaining - cost[index], cost)) {
-                answer.push_back(char('1' + index));
-                remaining -= cost[index];
+        if (length == -1)
+            return "0";
+
+        string ans = "";
+
+        while (length > 0) {
+
+            for (int d = 9; d >= 1; d--) {
+
+                if (cost[d - 1] <= target &&
+                    solve(cost, target - cost[d - 1]) == length - 1) {
+
+                    ans += to_string(d);
+
+                    target -= cost[d - 1];
+                    length--;
+
+                    break;
+                }
             }
         }
 
-        return answer;
+        return ans;
     }
 };
