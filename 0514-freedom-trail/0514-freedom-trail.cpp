@@ -1,38 +1,40 @@
 class Solution {
 public:
-    int t[101][101];
-    
-    int countSteps(int ringIndex, int i, int n) {
-        int dist       = abs(i - ringIndex);
-        int wrapAround =  n - dist;
-        
-        return min(dist, wrapAround);
+
+    int count_steps(int current, int target, int n) {
+        int dist = abs(current - target);
+
+        return min(dist, n - dist);
     }
-    
-    int solve(int ringIndex, int keyIndex, string& ring, string& key) {
-        
-        if (keyIndex == key.length()) {
-            return 0;
-        }
-        
-        if(t[ringIndex][keyIndex] != -1) {
-            return t[ringIndex][keyIndex];
-        }
-        
-        int result = INT_MAX;
-        for (int i = 0; i < ring.length(); i++) {
-            if (ring[i] == key[keyIndex]) {
-                int totalSteps = countSteps(ringIndex, i, ring.length()) + 1 +
-                                            solve(i, keyIndex + 1, ring, key);
-                result = min(result, totalSteps);
+
+    int findRotateSteps(string ring, string key) {
+
+        int n = ring.length();
+        int m = key.length();
+
+        vector<vector<int>> dp(n, vector<int>(m + 1, 0));
+
+        for (int key_index = m - 1; key_index >= 0; key_index--) {
+
+            for (int ring_index = 0; ring_index < n; ring_index++) {
+
+                dp[ring_index][key_index] = INT_MAX;
+
+                for (int i = 0; i < n; i++) {
+
+                    if (ring[i] == key[key_index]) {
+
+                        int rotate = count_steps(ring_index, i, n);
+
+                        int total = rotate + 1 + dp[i][key_index + 1];
+
+                        dp[ring_index][key_index] =
+                            min(dp[ring_index][key_index], total);
+                    }
+                }
             }
         }
-        
-        return t[ringIndex][keyIndex] = result;
-    }
-    
-    int findRotateSteps(string ring, string key) {
-        memset(t, -1, sizeof(t));
-        return solve(0, 0, ring, key);
+
+        return dp[0][0];
     }
 };
