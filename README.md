@@ -287,6 +287,7 @@ Leetcode
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/rai-kriti/pepcp/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rai-kriti/pepcp/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rai-kriti/pepcp/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rai-kriti/pepcp/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/rai-kriti/pepcp/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -411,6 +412,7 @@ Leetcode
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rai-kriti/pepcp/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -722,6 +724,7 @@ Leetcode
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rai-kriti/pepcp/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
