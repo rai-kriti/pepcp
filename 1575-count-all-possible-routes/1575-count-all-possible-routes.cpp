@@ -1,30 +1,25 @@
 class Solution {
 public:
-    int mod = 1e9 + 7;
-    int dp[101][201];
+    int countRoutes(vector<int>& locations, int start, int finish, int fuel) {
+        int n = locations.size();
+        int mod = 1e9+7;
+        vector<vector<int>> dp( n , vector<int>(fuel+1 , 0));
+        //dp[i][f] i par khade hokar, f fuel ke saath finish tak kitne ways hain
+        for(int f =0 ; f<= fuel ; f++){
+            dp[finish][f] = 1;
 
-    int solve(int i, int f, vector<int>& locations, int finish) {
-        if (dp[i][f] != -1)
-            return dp[i][f];
+            for(int i=0 ; i<n ; i++){
+                for(int j=0; j<n ; j++){
+                    if(i==j) continue;
 
-        int ans = (i == finish) ? 1 : 0;
+                    int cost = abs(locations[i] - locations[j]);
 
-        for (int j = 0; j < locations.size(); j++) {
-            if (i == j)
-                continue;
-
-            int cost = abs(locations[i] - locations[j]);
-
-            if (cost <= f) {
-                ans = (ans + solve(j, f - cost, locations, finish)) % mod;
+                    if(cost <= f)
+                        dp[i][f] = (dp[i][f] +  dp[j][f -  cost]) % mod;
+                }
             }
         }
 
-        return dp[i][f] = ans;
-    }
-
-    int countRoutes(vector<int>& locations, int start, int finish, int fuel) {
-        memset(dp, -1, sizeof(dp));
-        return solve(start, fuel, locations, finish);
+        return dp[start][fuel];
     }
 };
