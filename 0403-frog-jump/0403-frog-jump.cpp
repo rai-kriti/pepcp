@@ -1,57 +1,43 @@
 
 class Solution {
 public:
-    unordered_map<int, int> mp;
-    vector<vector<int>> memo;
-
-    bool f(vector<int>& stones, int posIndex, int jump, int n) {
-        if (posIndex == n - 1)
-            return true;
-
-        if (memo[posIndex][jump] != -1)
-            return memo[posIndex][jump];
-
-        int currPos = stones[posIndex];
-
-        // Jump k - 1
-        if (jump > 1 && mp.count(currPos + jump - 1)) {
-            int nextIndex = mp[currPos + jump - 1];
-
-            if (f(stones, nextIndex, jump - 1, n))
-                return memo[posIndex][jump] = 1;
-        }
-
-        // Jump k
-        if (mp.count(currPos + jump)) {
-            int nextIndex = mp[currPos + jump];
-
-            if (f(stones, nextIndex, jump, n))
-                return memo[posIndex][jump] = 1;
-        }
-
-        // Jump k + 1
-        if (mp.count(currPos + jump + 1)) {
-            int nextIndex = mp[currPos + jump + 1];
-
-            if (f(stones, nextIndex, jump + 1, n))
-                return memo[posIndex][jump] = 1;
-        }
-
-        return memo[posIndex][jump] = 0;
-    }
-
     bool canCross(vector<int>& stones) {
         int n = stones.size();
 
         if (stones[1] != 1)
             return false;
 
-        mp.clear();
+        unordered_map<int, int> mp;
         for (int i = 0; i < n; i++)
             mp[stones[i]] = i;
 
-        memo.assign(n, vector<int>(n + 1, -1));
+        vector<vector<bool>> dp(n, vector<bool>(n + 1, false));
+        dp[1][1] = true;
 
-        return f(stones, 1, 1, n);
+        for (int i = 1; i < n; i++) {
+            for (int k = 1; k <= n; k++) {
+                if (!dp[i][k])
+                    continue;
+
+                for (int jump = k - 1; jump <= k + 1; jump++) {
+                    if (jump <= 0)
+                        continue;
+
+                    int nextPos = stones[i] + jump;
+
+                    if (mp.count(nextPos)) {
+                        int j = mp[nextPos];
+                        dp[j][jump] = true;
+                    }
+                }
+            }
+        }
+
+        for (int k = 1; k <= n; k++) {
+            if (dp[n - 1][k])
+                return true;
+        }
+
+        return false;
     }
 };
