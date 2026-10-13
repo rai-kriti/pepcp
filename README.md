@@ -28,6 +28,7 @@ Leetcode
 | [0377-combination-sum-iv](https://github.com/rai-kriti/pepcp/tree/main/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rai-kriti/pepcp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0403-frog-jump](https://github.com/rai-kriti/pepcp/tree/main/0403-frog-jump/) | Hard |
+| [0406-queue-reconstruction-by-height](https://github.com/rai-kriti/pepcp/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rai-kriti/pepcp/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0502-ipo](https://github.com/rai-kriti/pepcp/tree/main/0502-ipo/) | Hard |
@@ -160,6 +161,7 @@ Leetcode
 | [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rai-kriti/pepcp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0406-queue-reconstruction-by-height](https://github.com/rai-kriti/pepcp/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0502-ipo](https://github.com/rai-kriti/pepcp/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -516,12 +518,14 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
+| [0406-queue-reconstruction-by-height](https://github.com/rai-kriti/pepcp/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rai-kriti/pepcp/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/rai-kriti/pepcp/tree/main/0218-the-skyline-problem/) | Hard |
+| [0406-queue-reconstruction-by-height](https://github.com/rai-kriti/pepcp/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rai-kriti/pepcp/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rai-kriti/pepcp/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Number Theory
