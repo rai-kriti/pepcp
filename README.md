@@ -300,6 +300,7 @@ Leetcode
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/rai-kriti/pepcp/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/rai-kriti/pepcp/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1220-count-vowels-permutation](https://github.com/rai-kriti/pepcp/tree/main/1220-count-vowels-permutation/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rai-kriti/pepcp/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rai-kriti/pepcp/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
