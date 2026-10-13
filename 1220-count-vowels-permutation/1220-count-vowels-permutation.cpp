@@ -1,24 +1,18 @@
 class Solution {
 public:
     int countVowelPermutation(int n) {
-        const int mod =  1e9+7;
-        vector<long long> dp(5 , 1);
-        for(int len =2 ; len <= n; len++){
-            vector<long long> ndp(5);
-
-            ndp[0] = (dp[1] + dp[2] + dp[4]) % mod;
-            ndp[1] = (dp[0] + dp[2]) % mod;
-            ndp[2] = (dp[1] + dp[3]) % mod;
-            ndp[3] = dp[2];
-            ndp[4] = (dp[2] + dp[3]) % mod;
-
-            dp = ndp;
+         long a = 1, e = 1, i = 1, o = 1, u = 1, mod = pow(10, 9)+7;
+        long a2, e2, i2, o2, u2; 
+        
+        for (int j = 2; j <= n; j++) {
+            a2 = (e + i + u) % mod;
+            e2 = (a + i) % mod;
+            i2 = (e + o) % mod;
+            o2 = i;
+            u2 = (o + i) % mod;
+            
+            a = a2, e = e2, i = i2, o = o2, u = u2;
         }
-
-        long long ans =0 ;
-        for(int x : dp)( ans =  (ans+x)%mod);
-
-
-        return ans;
+        return (a + e + i + o + u) % mod;
     }
 };
