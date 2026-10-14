@@ -81,6 +81,7 @@ Leetcode
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/rai-kriti/pepcp/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1813-sentence-similarity-iii](https://github.com/rai-kriti/pepcp/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rai-kriti/pepcp/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
@@ -424,6 +425,7 @@ Leetcode
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
+| [1813-sentence-similarity-iii](https://github.com/rai-kriti/pepcp/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rai-kriti/pepcp/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -495,6 +497,7 @@ Leetcode
 | [1255-maximum-score-words-formed-by-letters](https://github.com/rai-kriti/pepcp/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rai-kriti/pepcp/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rai-kriti/pepcp/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1813-sentence-similarity-iii](https://github.com/rai-kriti/pepcp/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rai-kriti/pepcp/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
