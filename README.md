@@ -82,6 +82,7 @@ Leetcode
 | [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/rai-kriti/pepcp/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rai-kriti/pepcp/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/rai-kriti/pepcp/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -153,6 +154,7 @@ Leetcode
 | [1024-video-stitching](https://github.com/rai-kriti/pepcp/tree/main/1024-video-stitching/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rai-kriti/pepcp/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rai-kriti/pepcp/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rai-kriti/pepcp/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Sorting
@@ -183,6 +185,7 @@ Leetcode
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rai-kriti/pepcp/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1943-describe-the-painting](https://github.com/rai-kriti/pepcp/tree/main/1943-describe-the-painting/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rai-kriti/pepcp/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rai-kriti/pepcp/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -421,6 +424,7 @@ Leetcode
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rai-kriti/pepcp/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
