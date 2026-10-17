@@ -64,6 +64,7 @@ Leetcode
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
 | [1051-height-checker](https://github.com/rai-kriti/pepcp/tree/main/1051-height-checker/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/rai-kriti/pepcp/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rai-kriti/pepcp/tree/main/1210-minimum-moves-to-reach-target-with-rotations/) | Hard |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/rai-kriti/pepcp/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/rai-kriti/pepcp/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -135,6 +136,7 @@ Leetcode
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/rai-kriti/pepcp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/rai-kriti/pepcp/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/rai-kriti/pepcp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rai-kriti/pepcp/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/rai-kriti/pepcp/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
@@ -325,6 +327,7 @@ Leetcode
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/rai-kriti/pepcp/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/rai-kriti/pepcp/tree/main/1048-longest-string-chain/) | Medium |
+| [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/rai-kriti/pepcp/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/rai-kriti/pepcp/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1220-count-vowels-permutation](https://github.com/rai-kriti/pepcp/tree/main/1220-count-vowels-permutation/) | Hard |
@@ -467,6 +470,7 @@ Leetcode
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rai-kriti/pepcp/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rai-kriti/pepcp/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rai-kriti/pepcp/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
@@ -783,6 +787,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -805,4 +810,12 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rai-kriti/pepcp/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
