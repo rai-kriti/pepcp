@@ -48,6 +48,7 @@ Leetcode
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/rai-kriti/pepcp/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0879-profitable-schemes](https://github.com/rai-kriti/pepcp/tree/main/0879-profitable-schemes/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
@@ -319,6 +320,7 @@ Leetcode
 | [0799-champagne-tower](https://github.com/rai-kriti/pepcp/tree/main/0799-champagne-tower/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/rai-kriti/pepcp/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0879-profitable-schemes](https://github.com/rai-kriti/pepcp/tree/main/0879-profitable-schemes/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/rai-kriti/pepcp/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/rai-kriti/pepcp/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -761,6 +763,7 @@ Leetcode
 | [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
+| [0879-profitable-schemes](https://github.com/rai-kriti/pepcp/tree/main/0879-profitable-schemes/) | Hard |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/rai-kriti/pepcp/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 ## Complete Knapsack
 | Problem Name | Difficulty |
@@ -801,6 +804,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/rai-kriti/pepcp/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0879-profitable-schemes](https://github.com/rai-kriti/pepcp/tree/main/0879-profitable-schemes/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
