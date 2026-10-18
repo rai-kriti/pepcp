@@ -1,41 +1,32 @@
 
 class Solution {
 public:
-    int MOD = 1e9 + 7;
-    int dp[101][101][101];
-
-    int solve(int i, int members, int prof, int n, int minProfit,
-              vector<int>& group, vector<int>& profit) {
-
-        if (i == group.size()) {
-            return prof == minProfit ? 1 : 0;
-        }
-
-        if (dp[i][members][prof] != -1) {
-            return dp[i][members][prof];
-        }
-
-        // Skip current crime
-        int ans = solve(i + 1, members, prof, n, minProfit,
-                        group, profit);
-
-        // Take current crime
-        if (members + group[i] <= n) {
-            int newProfit = min(minProfit, prof + profit[i]);
-
-            ans = (ans + solve(i + 1, members + group[i],
-                               newProfit, n, minProfit,
-                               group, profit)) % MOD;
-        }
-
-        return dp[i][members][prof] = ans;
-    }
-
     int profitableSchemes(int n, int minProfit,
                           vector<int>& group, vector<int>& profit) {
+        const int MOD = 1e9 + 7;
 
-        memset(dp, -1, sizeof(dp));
+        vector<vector<int>> dp(n + 1,
+                               vector<int>(minProfit + 1, 0));
 
-        return solve(0, 0, 0, n, minProfit, group, profit);
+        dp[0][0] = 1;
+
+        for (int x = 0; x < group.size(); x++) {
+            for (int i = n - group[x]; i >= 0; i--) {
+                for (int j = minProfit; j >= 0; j--) {
+                    int ni = i + group[x];
+                    int nj = min(minProfit, j + profit[x]);
+
+                    dp[ni][nj] = (dp[ni][nj] + dp[i][j]) % MOD;
+                }
+            }
+        }
+
+        int ans = 0;
+
+        for (int i = 0; i <= n; i++) {
+            ans = (ans + dp[i][minProfit]) % MOD;
+        }
+
+        return ans;
     }
 };
