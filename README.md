@@ -47,6 +47,7 @@ Leetcode
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/rai-kriti/pepcp/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/rai-kriti/pepcp/tree/main/0813-largest-sum-of-averages/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rai-kriti/pepcp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/rai-kriti/pepcp/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -276,6 +277,7 @@ Leetcode
 | [0633-sum-of-square-numbers](https://github.com/rai-kriti/pepcp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rai-kriti/pepcp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rai-kriti/pepcp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rai-kriti/pepcp/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -838,4 +840,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0528-random-pick-with-weight](https://github.com/rai-kriti/pepcp/tree/main/0528-random-pick-with-weight/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rai-kriti/pepcp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
