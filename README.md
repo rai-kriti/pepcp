@@ -273,6 +273,7 @@ Leetcode
 | [0069-sqrtx](https://github.com/rai-kriti/pepcp/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/rai-kriti/pepcp/tree/main/0162-find-peak-element/) | Medium |
 | [0275-h-index-ii](https://github.com/rai-kriti/pepcp/tree/main/0275-h-index-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/rai-kriti/pepcp/tree/main/0278-first-bad-version/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rai-kriti/pepcp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rai-kriti/pepcp/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0528-random-pick-with-weight](https://github.com/rai-kriti/pepcp/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -846,4 +847,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rai-kriti/pepcp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/rai-kriti/pepcp/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
