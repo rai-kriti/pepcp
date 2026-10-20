@@ -36,6 +36,7 @@ Leetcode
 | [0506-relative-ranks](https://github.com/rai-kriti/pepcp/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/rai-kriti/pepcp/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/rai-kriti/pepcp/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/rai-kriti/pepcp/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rai-kriti/pepcp/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0638-shopping-offers](https://github.com/rai-kriti/pepcp/tree/main/0638-shopping-offers/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/rai-kriti/pepcp/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -136,6 +137,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/rai-kriti/pepcp/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0528-random-pick-with-weight](https://github.com/rai-kriti/pepcp/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/rai-kriti/pepcp/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/rai-kriti/pepcp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -270,6 +272,7 @@ Leetcode
 | [0162-find-peak-element](https://github.com/rai-kriti/pepcp/tree/main/0162-find-peak-element/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rai-kriti/pepcp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rai-kriti/pepcp/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0528-random-pick-with-weight](https://github.com/rai-kriti/pepcp/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/rai-kriti/pepcp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rai-kriti/pepcp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rai-kriti/pepcp/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -475,6 +478,7 @@ Leetcode
 | [0343-integer-break](https://github.com/rai-kriti/pepcp/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/rai-kriti/pepcp/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/rai-kriti/pepcp/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/rai-kriti/pepcp/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/rai-kriti/pepcp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/rai-kriti/pepcp/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -830,4 +834,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0528-random-pick-with-weight](https://github.com/rai-kriti/pepcp/tree/main/0528-random-pick-with-weight/) | Medium |
 <!---LeetCode Topics End-->
