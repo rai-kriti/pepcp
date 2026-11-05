@@ -1,43 +1,38 @@
 class Solution {
 public:
+    int strangePrinter(string s) {
 
-    int dp[101][101];
+        int n = s.size();
 
-    int solve(int i, int j, string &s) {
+        vector<vector<int>> dp(n, vector<int>(n, 0));
 
-        // Print the first a separately 1 + solve(i+1,j)
-        // Don't print the first a separately every k where s[i] == s[k]:
-        // solve(i+1,k-1)+solve(k,j)
+        for (int i = n - 1; i >= 0; i--) {
 
-        if (i > j) return 0;
+            dp[i][i] = 1;
 
-        if (i == j) return 1;
+            for (int j = i + 1; j < n; j++) {
 
-        // Memoization: if already calculated, return stored answer
-        if (dp[i][j] != -1)
-            return dp[i][j];
+                // Print the first a separately 1 + dp[i+1][j]
+                // Don't print the first a separately every k where s[i] == s[k]:
+                // dp[i+1][k-1] + dp[k][j]
 
-        int ans = 1 + solve(i + 1, j, s);
+                dp[i][j] = 1 + dp[i + 1][j];
 
-        for (int k = i + 1; k <= j; k++) {
+                for (int k = i + 1; k <= j; k++) {
 
-            if (s[i] == s[k]) {
+                    if (s[i] == s[k]) {
 
-                int cost = solve(i + 1, k - 1, s)
-                         + solve(k, j, s);
+                        int cost = dp[k][j];
 
-                ans = min(ans, cost);
+                        if (k > i + 1)
+                            cost += dp[i + 1][k - 1];
+
+                        dp[i][j] = min(dp[i][j], cost);
+                    }
+                }
             }
         }
 
-        // Store the answer before returning
-        return dp[i][j] = ans;
-    }
-
-    int strangePrinter(string s) {
-
-        memset(dp, -1, sizeof(dp));
-
-        return solve(0, s.size() - 1, s);
+        return dp[0][n - 1];
     }
 };
