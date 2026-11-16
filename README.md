@@ -52,6 +52,7 @@ Leetcode
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/rai-kriti/pepcp/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rai-kriti/pepcp/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0877-stone-game](https://github.com/rai-kriti/pepcp/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/rai-kriti/pepcp/tree/main/0879-profitable-schemes/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rai-kriti/pepcp/tree/main/0881-boats-to-save-people/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -337,6 +338,7 @@ Leetcode
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/rai-kriti/pepcp/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/rai-kriti/pepcp/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rai-kriti/pepcp/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0877-stone-game](https://github.com/rai-kriti/pepcp/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/rai-kriti/pepcp/tree/main/0879-profitable-schemes/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/rai-kriti/pepcp/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -490,6 +492,7 @@ Leetcode
 | [0528-random-pick-with-weight](https://github.com/rai-kriti/pepcp/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/rai-kriti/pepcp/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/rai-kriti/pepcp/tree/main/0650-2-keys-keyboard/) | Medium |
+| [0877-stone-game](https://github.com/rai-kriti/pepcp/tree/main/0877-stone-game/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/rai-kriti/pepcp/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/rai-kriti/pepcp/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
@@ -811,6 +814,7 @@ Leetcode
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/rai-kriti/pepcp/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 ## Impartial Game
@@ -839,10 +843,12 @@ Leetcode
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/rai-kriti/pepcp/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/rai-kriti/pepcp/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
