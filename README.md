@@ -95,6 +95,7 @@ Leetcode
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rai-kriti/pepcp/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1690-stone-game-vii](https://github.com/rai-kriti/pepcp/tree/main/1690-stone-game-vii/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/rai-kriti/pepcp/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/rai-kriti/pepcp/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -372,6 +373,7 @@ Leetcode
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/rai-kriti/pepcp/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1690-stone-game-vii](https://github.com/rai-kriti/pepcp/tree/main/1690-stone-game-vii/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/rai-kriti/pepcp/tree/main/1947-maximum-compatibility-score-sum/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rai-kriti/pepcp/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/rai-kriti/pepcp/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -504,6 +506,7 @@ Leetcode
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rai-kriti/pepcp/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [1563-stone-game-v](https://github.com/rai-kriti/pepcp/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rai-kriti/pepcp/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1690-stone-game-vii](https://github.com/rai-kriti/pepcp/tree/main/1690-stone-game-vii/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/rai-kriti/pepcp/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rai-kriti/pepcp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rai-kriti/pepcp/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -821,6 +824,7 @@ Leetcode
 | [1025-divisor-game](https://github.com/rai-kriti/pepcp/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
 | [1563-stone-game-v](https://github.com/rai-kriti/pepcp/tree/main/1563-stone-game-v/) | Hard |
+| [1690-stone-game-vii](https://github.com/rai-kriti/pepcp/tree/main/1690-stone-game-vii/) | Medium |
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -849,11 +853,13 @@ Leetcode
 | ------- | ------- |
 | [0877-stone-game](https://github.com/rai-kriti/pepcp/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
+| [1690-stone-game-vii](https://github.com/rai-kriti/pepcp/tree/main/1690-stone-game-vii/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/rai-kriti/pepcp/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/rai-kriti/pepcp/tree/main/1140-stone-game-ii/) | Medium |
+| [1690-stone-game-vii](https://github.com/rai-kriti/pepcp/tree/main/1690-stone-game-vii/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
