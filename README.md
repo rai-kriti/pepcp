@@ -83,6 +83,7 @@ Leetcode
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rai-kriti/pepcp/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/rai-kriti/pepcp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rai-kriti/pepcp/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rai-kriti/pepcp/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/rai-kriti/pepcp/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rai-kriti/pepcp/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/rai-kriti/pepcp/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
@@ -268,6 +269,7 @@ Leetcode
 | [0787-cheapest-flights-within-k-stops](https://github.com/rai-kriti/pepcp/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rai-kriti/pepcp/tree/main/1210-minimum-moves-to-reach-target-with-rotations/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rai-kriti/pepcp/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rai-kriti/pepcp/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -387,6 +389,7 @@ Leetcode
 | [0332-reconstruct-itinerary](https://github.com/rai-kriti/pepcp/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rai-kriti/pepcp/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rai-kriti/pepcp/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rai-kriti/pepcp/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/rai-kriti/pepcp/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -419,6 +422,7 @@ Leetcode
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [0912-sort-an-array](https://github.com/rai-kriti/pepcp/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/rai-kriti/pepcp/tree/main/1046-last-stone-weight/) | Easy |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rai-kriti/pepcp/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/rai-kriti/pepcp/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rai-kriti/pepcp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/rai-kriti/pepcp/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -430,6 +434,7 @@ Leetcode
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rai-kriti/pepcp/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rai-kriti/pepcp/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rai-kriti/pepcp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/rai-kriti/pepcp/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
@@ -446,6 +451,7 @@ Leetcode
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rai-kriti/pepcp/tree/main/1210-minimum-moves-to-reach-target-with-rotations/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/rai-kriti/pepcp/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rai-kriti/pepcp/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rai-kriti/pepcp/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rai-kriti/pepcp/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/rai-kriti/pepcp/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rai-kriti/pepcp/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -703,6 +709,7 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/rai-kriti/pepcp/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rai-kriti/pepcp/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -872,4 +879,8 @@ Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/rai-kriti/pepcp/tree/main/0278-first-bad-version/) | Easy |
+## 0-1 BFS
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rai-kriti/pepcp/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 <!---LeetCode Topics End-->
