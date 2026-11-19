@@ -72,18 +72,13 @@ public:
         }
 
         // Special road edges
-        int u = 2;
+        for (int i = 0; i < specialRoads.size(); i++) {
 
-        for (auto road : specialRoads) {
+    int u = 2 + 2*i;
+    int v = u + 1;
 
-            int v = u + 1;
-
-            int cost = road[4];
-
-            adj[u].push_back({v, cost});
-
-            u += 2;
-        }
+    adj[u].push_back({v, specialRoads[i][4]});
+}
 
         return dijkstra(adj, n);
     }
